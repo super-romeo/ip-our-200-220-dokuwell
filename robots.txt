@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ip-our-200-220.dokufolio.com/sitemap.xml
